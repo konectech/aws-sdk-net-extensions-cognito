@@ -46,8 +46,8 @@
   </Choose>
 
   <ItemGroup>
-    <PackageReference Include="AWSSDK.CognitoIdentity" Version="3.7.200.7" />
-    <PackageReference Include="AWSSDK.CognitoIdentityProvider" Version="3.7.200.7" />
+    <PackageReference Include="AWSSDK.CognitoIdentity" Version="3.7.200.9" />
+    <PackageReference Include="AWSSDK.CognitoIdentityProvider" Version="3.7.201" />
   </ItemGroup>
 
   <ItemGroup>
